@@ -1,4 +1,4 @@
-# Simple ToDo App /w React Context and Styled Components.
+## Simple ToDo App /w React Context and Styled Components.
 
 # Getting Started with Create React App
 
